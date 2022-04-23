@@ -1,2 +1,2 @@
 # Overly-Modded
-Overly Modded Modpack on Curseforge.
+Overly Modded Modpack on Curseforge. Currently being tested, release soon.
